@@ -9,7 +9,7 @@
 
  <p></p>
  
-水运工程质量检验标准
+城市桥梁养护技术标准
 =========================================
 
 
@@ -17,12 +17,12 @@
 .. raw:: html
 
 
- <h1 id="test111" ><font size="6"><br/><br/><br/>水运工程质量检验标准</font></h1>
+ <h1 id="test111" ><font size="6"><br/><br/><br/>城市桥梁养护技术标准</font></h1>
 
- <b><br/><br/><font size="3"> Standard for Quality Inspection of Port and Waterway Engineering Construction</font></b>
+ <b><br/><br/><font size="3"> Technical standard of maintenance for city bridge</font></b>
 
 
-  <b><br/><br/><br/><font size="4">JTS 257-2008</font></b>
+  <b><br/><br/><br/><font size="4">CJJ 99-2017</font></b>
 
  <p></p>
   
@@ -31,22 +31,14 @@
  <body>
  <table border="0" style="font-family:times new roman" >
  <tr>
- <td><font size="4"><br/><br/>主编部门:</font></td>
- <td><font size="4"><br/><br/>中交第一航务工程局有限公司</font></td>
- </tr>
-  <tr>
- <td><font size="4"><br/><br/> </font></td>
- <td><font size="4"><br/>福建省交通基本建设工程质量监督检测站</font></td>
- </tr>
- <tr>
- <td><font size="4"><br/>批准部门：</font></td>
- <td><font size="4"><br/>中华人民共和国交通运输部</font></td>
+ <td><font size="4"><br/><br/>批准部门:</font></td>
+ <td><font size="4"><br/><br/>中华人民共和国住房和城乡建设部</font></td>
  </tr>
  <tr>
  <td><font size="4"><br/>施行日期：</font></td>
- <td><font size="4"><br/>2009年1月1日</font></td>
+ <td><font size="4"><br/>2018年2月1日</font></td>
  </tr>
- </table>
+  </table>
 	</body>
 
 .. raw:: html
@@ -64,8 +56,7 @@
 
 
 
- <p><b><font size="4">人民交通出版社</font></b></p>
- <p><b><font size="4">2008·北京</font></b></p>
+ <p><b><font size="4">2017·北京</font></b></p>
 
 
 
@@ -75,7 +66,7 @@
     :hidden:
     
     gg
-    zdsm
+    qy
     1
     2
     3
@@ -93,11 +84,6 @@
     FLD
     FLE
     FLF
-    FLG
-    FLH
-    FLJ
-    FLK
-    FLL
     fjsm
     qcmd
     twsm

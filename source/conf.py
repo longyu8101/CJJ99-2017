@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = '水运工程质量检验标准<br /><br />JTS 257-2008'
+project = '城市桥梁养护技术标准<br /><br />CJJ 99-2017'
 copyright = '' 
 
 # -- General configuration ---------------------------------------------------
@@ -33,7 +33,7 @@ html_theme = 'sphinx_rtd_theme'
 
 # html_theme = 'sphinx_book_theme'
 
-html_title = "水运工程质量检验标准  JTS 257-2008"
+html_title = "城市桥梁养护技术标准  CJJ 99-2017"
 # html_logo = "_static/logo.png"
 html_favicon = "_static/logo.png"
 
