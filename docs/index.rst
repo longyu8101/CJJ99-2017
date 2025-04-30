@@ -78,13 +78,14 @@
     9
     10
     11
+    12
     FLA
     FLB
     FLC
     FLD
     FLE
     FLF
-    fjsm
-    qcmd
+    ycsm
+    yyml
     twsm
    

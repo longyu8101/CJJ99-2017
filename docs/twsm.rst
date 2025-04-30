@@ -8,7 +8,6 @@
     
     tbzsm
     t1
-    t2
     t3
     t4
     t5
@@ -30,7 +29,7 @@
             background-color: #f0ffff;
         }
         #abb{
-            height:500px;
+            height:250px;
             background-color: #f0ffff;
         }
   </style>
